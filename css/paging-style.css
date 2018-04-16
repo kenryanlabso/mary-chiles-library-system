@@ -1,0 +1,29 @@
+.dataTables_paginate ul
+{
+	box-shadow: 1px 1px #666;
+	border-radius:3px;
+	border:1px solid gray;
+	background-color:#F8F8F8;
+}
+.dataTables_paginate li
+{
+	padding:10px;
+	display:inline-block;
+	color:white;
+}
+.dataTables_paginate a
+{
+	text-decoration:none;
+	padding:10px;
+}
+.dataTables_paginate li:hover
+{
+	background-color:#efefef;
+	text-decoration:none;
+	color:white;
+}
+.dataTables_paginate li:active
+{
+	background-color:#efefef;
+	background-color:white;
+}
